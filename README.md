@@ -11,11 +11,11 @@
 
 ---
 
-### Background Parallax Effect on Mouse Move
+### Parallax Effect on Mouse Move
 
 [Demo](https://codesandbox.io/s/3rz7ox3r36?fontsize=14)
 
-![Background Parallax Effect on Mouse Move](https://i.imgur.com/zyFHTpy.gif)
+![Parallax Effect on Mouse Move](https://i.imgur.com/zyFHTpy.gif)
 
 ### CSS Glowing Gradient Border Effects
 
