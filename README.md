@@ -1,4 +1,10 @@
-> ### A collection of react components converted from online css effects 👍
+# CSS Effect React Components Collection
+
+---
+
+> A collection of react components converted from online css effects 👍
+
+---
 
 - [Background Parallax Effect on Mouse Move](#Background-Parallax-Effect-on-Mouse-Move)
 - [CSS Glowing Gradient Border Effects](#CSS-Glowing-Gradient-Border-Effects)
@@ -9,7 +15,7 @@
 
 [Demo](https://codesandbox.io/s/3rz7ox3r36?fontsize=14)
 
-![Background Parallax Effect on Mouse Move](https://i.imgur.com/zyFHTpy.gifv)
+![Background Parallax Effect on Mouse Move](https://i.imgur.com/zyFHTpy.gif)
 
 ### CSS Glowing Gradient Border Effects
 
