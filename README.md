@@ -21,4 +21,4 @@
 
 [Demo](https://codesandbox.io/s/l4nv4v9y29?fontsize=14)
 
-![CSS Glowing Gradient Border Effects](https://i.imgur.com/qW2jX9i.jpg)
+![CSS Glowing Gradient Border Effects](https://i.imgur.com/qTK4tHkm.jpg)
