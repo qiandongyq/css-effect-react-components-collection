@@ -2,7 +2,7 @@
 
 ---
 
-> A collection of react components converted from online css effects 👍
+> A collection of React Components that I converted from some cool CSS effects 👍
 
 ---
 
