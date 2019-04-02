@@ -9,6 +9,7 @@
 - [Background Parallax Effect on Mouse Move](#Background-Parallax-Effect-on-Mouse-Move)
 - [3D Flipping Card](#3D-Flipping-Card)
 - [CSS Glowing Gradient Border Effects](#CSS-Glowing-Gradient-Border-Effects)
+- [Magnifying Glass Layer Image](#Magnifying-Glass-Layer-Image)
 
 ---
 
@@ -23,6 +24,12 @@
 ([CodeSandbox Demo](https://codesandbox.io/s/xp67ryo1xp?fontsize=14))
 
 ![3D Flipping Card](https://media.giphy.com/media/X8JcbsXnRuJsDleCQi/giphy.gif)
+
+#### Magnifying Glass Layer Image
+
+([CodeSandbox Demo](https://codesandbox.io/s/4wpoo36y47?fontsize=14))
+
+![Magnifying Glass Layer Image](https://media.giphy.com/media/5PhvVNK7KVxMewKxPe/giphy.gif)
 
 #### CSS Glowing Gradient Border Effects
 
